@@ -1,6 +1,6 @@
- <p align="center">
-  View <a href="/">Live demo</a>.
- </p>
+ <h1 align="center">
+  View <a href="https://whether-webapp.vercel.app/">Live demo</a>.
+ </h1>
 
 ## Setup
 
